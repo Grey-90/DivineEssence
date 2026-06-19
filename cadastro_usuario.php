@@ -40,6 +40,7 @@ if ($resultado->num_rows > 0) {
         exit;
     }
 
+    
     echo "Erro ao cadastrar usuário.";
 }
 ?>
